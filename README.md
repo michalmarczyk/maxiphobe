@@ -1,6 +1,6 @@
 # maxiphobe
 
-Meldable priority queues in Clojure, based on OKasaki's maxiphobic heaps.
+Meldable priority queues in Clojure, based on Okasaki's maxiphobic heaps.
 
 See Okasaki, "Alternatives to Two Classic Data Structures".
 

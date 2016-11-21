@@ -1,4 +1,4 @@
-(defproject maxiphobe "0.0.1"
+(defproject maxiphobe "0.0.2-SNAPSHOT"
   :description "Meldable priority queues in Clojure"
   :url "https://github.com/michalmarczyk/maxiphobe"
   :license {:name "Eclipse Public License"
